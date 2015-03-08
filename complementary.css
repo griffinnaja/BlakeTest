@@ -6,7 +6,7 @@ nav {
 	width: 20%;
 	float: left;
 	padding: 0 .25em;
-
+	background-color: #59CD90;
 
 }
 
@@ -30,7 +30,7 @@ h2 {
 #mainColumn {
 	margin: 0 auto;
 	width: 90%;
-
+	background-color: #F9627D
 
 }
 
@@ -38,13 +38,13 @@ h2 {
 	float: left;
 	width: 75%;
 	padding: 0 1em;
-
+	background-color: #3FA7D6
 
 
 }
 #content figure {
 	float: right;
 	margin: 0 1em;
-
+	background-color:#F79D84;
 
 }

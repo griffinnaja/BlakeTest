@@ -6,8 +6,7 @@ nav {
 	width: 20%;
 	float: left;
 	padding: 0 .25em;
-
-
+	background-color: #0DFF82;
 }
 
 nav ul {
@@ -24,27 +23,23 @@ p {
 h2 {
 	margin: 0;
 	margin-bottom: 1em;
-
 }
 
 #mainColumn {
 	margin: 0 auto;
 	width: 90%;
-
-
+	background-color: #482E74;
 }
 
 #content {
 	float: left;
 	width: 75%;
 	padding: 0 1em;
-
-
+	background-color: teal;
 
 }
 #content figure {
 	float: right;
 	margin: 0 1em;
-
-
+	background-color: #23FFC1;
 }
